@@ -12,6 +12,53 @@ Name: Md. Jübâyër: 30 Days 1500 tk Time: Jul22> Key: 2BDA4080E77E48F39C7F34F3
 Name: Iḃřẫħiḿ Iḃň Ḿuħẫḿḿẫȡ: 30 Days 900 tk Time: Jul23> Key: 04BFE20111824B419557ECB3FB7DB2419AD137
 
 Name: Rakibul Hasan: 1500 tk Time: Jul27> Key: EBB44B3F05C84677AFE67F5880E4E5A9100986
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: CHECK_EXC_MATCH
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: CHECK_EXC_MATCH
+Unsupported opcode: RERAISE
+Unsupported opcode: RERAISE
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: CHECK_EXC_MATCH
+Unsupported opcode: RERAISE
+Unsupported opcode: RERAISE
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: BEFORE_WITH
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: WITH_EXCEPT_START
+Unsupported opcode: RERAISE
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
+Unsupported opcode: JUMP_BACKWARD
+Unsupported opcode: PUSH_EXC_INFO
+Unsupported opcode: COPY
+Unsupported opcode: RERAISE
 
 Name: Rakibul Hasan: 15 Days 500 tk time : Jul12> Key: BC0D0AAAE23B4FCB81FA4D59C040C694AC34F8
 
